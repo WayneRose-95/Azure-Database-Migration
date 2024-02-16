@@ -1,0 +1,240 @@
+{
+  "Status": "Completed",
+  "AssessmentId": "d2e7cd2a-3a3f-4393-a7bc-e8f60355edc7",
+  "Servers": [
+    {
+      "ServerAssessments": [
+        {
+          "ServerName": "vm-dbmigration-",
+          "DatabaseName": "",
+          "DatabaseRestoreFails": false,
+          "FeatureId": "WindowsAuthentication",
+          "IssueCategory": "Warning",
+          "ImpactedObjects": [
+            {
+              "Name": "vm-dbmigration-",
+              "ObjectType": "Instance",
+              "ImpactDetail": "",
+              "DatabaseObjectType": "Instance"
+            }
+          ],
+          "MoreInformation": "An overview of Azure SQL Database and SQL Managed Instance security capabilities",
+          "RuleMetadata": {
+            "Description": "Azure SQL Database  supports two types of authentication 1) SQL Authentication, which uses a username and password 2) Azure Active Directory Authentication, which uses identities managed by Azure Active Directory and is supported for managed and integrated domains. Database users mapped with Windows authentication (integrated security) are not supported in Azure SQL Database.",
+            "Id": "Database users mapped with Windows authentication (integrated security) are not supported in Azure SQL Database.",
+            "HelpLink": "https://docs.microsoft.com/en-us/azure/azure-sql/database/security-overview#authentication",
+            "Probes": [],
+            "Enabled": true,
+            "Level": 2,
+            "Tags": [],
+            "Message": "Federate the local Active Directory with Azure Active Directory. The Windows identity can then be replaced with the equivalent Azure Active Directory identities. Alternatively, migrate to SQL Server on Azure Virtual Machine.",
+            "Parameters": {}
+          },
+          "RuleScope": "Server",
+          "AppliesToMigrationTargetPlatform": "AzureSqlDatabase",
+          "Timestamp": "2024-02-14T14:52:45.1589129+00:00"
+        },
+        {
+          "ServerName": "vm-dbmigration-",
+          "DatabaseName": "",
+          "DatabaseRestoreFails": false,
+          "FeatureId": "WindowsAuthentication",
+          "IssueCategory": "Warning",
+          "ImpactedObjects": [
+            {
+              "Name": "vm-dbmigration-",
+              "ObjectType": "Instance",
+              "ImpactDetail": "",
+              "DatabaseObjectType": "Instance"
+            }
+          ],
+          "MoreInformation": "An overview of Azure SQL Database and SQL Managed Instance security capabilities",
+          "RuleMetadata": {
+            "Description": "Azure SQL Managed Instance supports three types of authentication 1) SQL Authentication, which uses a username and password 2) Azure Active Directory Authentication and 3) Windows Authentication, which both use identities managed by Azure Active Directory and is supported for managed and integrated domains. Windows logins and users not in Azure Active Directory are not supported in Azure SQL Managed Instance.",
+            "Id": "Database users mapped with Windows authentication (integrated security) should be remapped to equivalent Azure AD identities.",
+            "HelpLink": "https://docs.microsoft.com/en-us/azure/azure-sql/database/security-overview#authentication",
+            "Probes": [],
+            "Enabled": true,
+            "Level": 2,
+            "Tags": [],
+            "Message": "Synchronize the local Active Directory with Azure Active Directory. The Windows identity can then be replaced with the equivalent Azure Active Directory identities. Alternatively, migrate to SQL Server on Azure Virtual Machine.",
+            "Parameters": {}
+          },
+          "RuleScope": "Server",
+          "AppliesToMigrationTargetPlatform": "AzureSqlManagedInstance",
+          "Timestamp": "2024-02-14T14:52:45.1597312+00:00"
+        }
+      ],
+      "TargetReadinesses": {
+        "AzureSqlDatabase": {
+          "DatabasesListReadyForMigration": [
+            "AdventureWorks2022"
+          ],
+          "DatabasesListNoSelectionForMigration": [],
+          "DatabasesListWithUnhandledErrors": [],
+          "AppliesToMigrationTargetPlatform": "AzureSqlDatabase",
+          "NumberOfDatabasesReadyForMigration": 1,
+          "NumberOfSecondaryAGDatabasesWithError": 0,
+          "NumberOfServerBlockerIssues": 0,
+          "NumberOfNonOnlineDatabases": 0,
+          "TotalNumberOfDatabases": 1,
+          "Errors": [],
+          "RecommendationStatus": "Ready",
+          "ServiceTiers": []
+        },
+        "AzureSqlManagedInstance": {
+          "DatabasesListReadyForMigration": [
+            "AdventureWorks2022"
+          ],
+          "DatabasesListNoSelectionForMigration": [],
+          "DatabasesListWithUnhandledErrors": [],
+          "AppliesToMigrationTargetPlatform": "AzureSqlManagedInstance",
+          "NumberOfDatabasesReadyForMigration": 1,
+          "NumberOfSecondaryAGDatabasesWithError": 0,
+          "NumberOfServerBlockerIssues": 0,
+          "NumberOfNonOnlineDatabases": 0,
+          "TotalNumberOfDatabases": 1,
+          "Errors": [],
+          "RecommendationStatus": "Ready",
+          "ServiceTiers": [
+            "GeneralPurpose",
+            "BusinessCritical"
+          ]
+        }
+      },
+      "Properties": {
+        "ServerName": "vm-dbmigration-",
+        "ProductName": "UNKNOWN",
+        "FQDN": "vm-dbmigration-",
+        "InstallId": "4d1f7af1-c42d-4e01-8cbe-03effdd85737",
+        "ServerVersion": "16.0.1000.6",
+        "ServerEdition": "Developer Edition (64-bit)",
+        "ServerHostPlatform": "Windows",
+        "ServerLevel": "RTM",
+        "ServerDefaultBackupPath": "C:\\Program Files\\Microsoft SQL Server\\MSSQL16.MSSQLSERVER\\MSSQL\\Backup",
+        "ServerDefaultDataPath": "C:\\Program Files\\Microsoft SQL Server\\MSSQL16.MSSQLSERVER\\MSSQL\\DATA\\",
+        "ServerDefaultLogPath": "C:\\Program Files\\Microsoft SQL Server\\MSSQL16.MSSQLSERVER\\MSSQL\\DATA\\",
+        "ServerCoreCount": 2,
+        "ServerCollation": "SQL_Latin1_General_CP1_CI_AS",
+        "ServerVisibleOnlineCoreCount": 2,
+        "IsHadrEnabled": false,
+        "IsBufferPoolExtensionEnabled": false,
+        "IsClustered": false,
+        "IsIntegratedSecurityOnly": true,
+        "IsPolyBaseInstalled": false,
+        "IsServerCaseSensitive": false,
+        "LogicalCpuCount": 2,
+        "HyperthreadRatio": 2,
+        "PhysicalCpuCount": 1.0,
+        "SqlStartTime": "2024-02-14T14:28:24.603",
+        "MaxServerMemoryInUse": 2147483647.0,
+        "NumberOfUserDatabases": 1,
+        "SumOfUserDatabasesSize": 272.0,
+        "TempDbSize": 24.0,
+        "NumOfLogins": 16,
+        "TotalNumOfUserDefinedObjects": 18,
+        "ServerPermissionsLevel": "MemberSysadmin",
+        "LinkedServers": [],
+        "AgentJobs": [],
+        "AGInfo": {
+          "AGs": [],
+          "SyncReplicasCount": 0,
+          "AsyncReplicasCount": 0,
+          "AsyncReadReplicasCount": 0,
+          "TotalAGDatabasesCount": 0
+        },
+        "IsRds": false
+      },
+      "Errors": [],
+      "Status": "Completed",
+      "XeventsFilesFolderPath": "",
+      "Databases": [
+        {
+          "DatabaseAssessments": [],
+          "TargetReadinesses": {
+            "AzureSqlDatabase": {
+              "AppliesToMigrationTargetPlatform": "AzureSqlDatabase",
+              "State": "Online",
+              "RecommendationStatus": "Ready",
+              "NoSelectionForMigration": false,
+              "NumOfBlockerIssues": 0,
+              "Errors": [],
+              "ServiceTiers": [
+                "GeneralPurpose",
+                "BusinessCritical",
+                "Hyperscale"
+              ]
+            },
+            "AzureSqlManagedInstance": {
+              "AppliesToMigrationTargetPlatform": "AzureSqlManagedInstance",
+              "State": "Online",
+              "RecommendationStatus": "Ready",
+              "NoSelectionForMigration": false,
+              "NumOfBlockerIssues": 0,
+              "Errors": [],
+              "ServiceTiers": [
+                "GeneralPurpose",
+                "BusinessCritical"
+              ]
+            }
+          },
+          "Properties": {
+            "Id": "fc6dce81-5c69-4f33-8a89-97c291d80148",
+            "ServerDatabaseId": "5",
+            "Name": "AdventureWorks2022",
+            "CompatibilityLevel": "CompatLevel160",
+            "Collation": "SQL_Latin1_General_CP1_CI_AS",
+            "DatabaseState": "Online",
+            "SizeMB": 272.0,
+            "DatabaseFileLocationDrive": "\u0000",
+            "DatabaseFiles": [
+              {
+                "LogicalName": "AdventureWorks2022",
+                "PhysicalFullName": "C:\\Program Files\\Microsoft SQL Server\\MSSQL16.MSSQLSERVER\\MSSQL\\DATA\\AdventureWorks2022.mdf",
+                "FileType": "Rows",
+                "SizeMB": 200.0,
+                "IsMemoryOptimizedDataOptionEnabled": false,
+                "FilegroupName": "PRIMARY",
+                "FilegroupType": "FG",
+                "HasErrors": false,
+                "ReportedErrors": {},
+                "ReportedExceptions": []
+              },
+              {
+                "LogicalName": "AdventureWorks2022_log",
+                "PhysicalFullName": "C:\\Program Files\\Microsoft SQL Server\\MSSQL16.MSSQLSERVER\\MSSQL\\DATA\\AdventureWorks2022_log.ldf",
+                "FileType": "Log",
+                "SizeMB": 72.0,
+                "IsMemoryOptimizedDataOptionEnabled": false,
+                "FilegroupType": "NotApplicable",
+                "HasErrors": false,
+                "ReportedErrors": {},
+                "ReportedExceptions": []
+              }
+            ],
+            "IsServiceBrokerEnabled": false,
+            "IsCdcEnabled": false,
+            "IsReplicationEnabled": false,
+            "NumOfUserDefinedObjects": 18,
+            "TSqlScriptAnalysisTimeElapse": "00:00:00.7765244",
+            "IsFullRecoveryModelSelected": true,
+            "IsRdsAdmin": false,
+            "IsTdeEnabled": false,
+            "AGDatabaseInfo": {
+              "AGDbSyncSecondaryReplicaCount": 0,
+              "AGDbAsyncSecondaryReplicaCount": 0,
+              "AGDbReadAsyncSecondaryReplicaCount": 0
+            }
+          },
+          "Errors": [],
+          "Status": "Completed",
+          "FeatureDiscoveryTimeElapse": "00:00:01.0033733"
+        }
+      ]
+    }
+  ],
+  "Errors": [],
+  "StartedOn": "2024-02-14T14:52:34.6344898+00:00",
+  "EndedOn": "2024-02-14T14:52:45.199248+00:00",
+  "XeventsFilesFolderPath": ""
+}
