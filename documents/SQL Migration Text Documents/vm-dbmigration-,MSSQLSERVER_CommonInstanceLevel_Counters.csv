@@ -1,0 +1,2 @@
+ServerName,Edition,HyperthreadRatio,IsClustered,IsHadrEnabled,LogicalCpuCount,MaxServerMemoryInUse,NumberCoresUsed,NumberOfUserDatabases,PhysicalCpuCount,ProductVersion,SqlStartTime,SumOfUserDatabasesSize,TempDbSize,NumOfLogins,TimeDataCollected
+vm-dbmigration-,Developer Edition (64-bit),2,False,False,2,2147483647,2,1,1,16.0.1000.6,2024-02-14 14:28:24,272,24,16,2024-02-14 15:07:17

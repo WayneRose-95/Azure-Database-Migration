@@ -1,0 +1,3 @@
+ServerName,DatabaseName,LogicalName,PhysicalFullName,FileType,SizeMB,IsMemoryOptimizedDataOptionEnabled,TimeDataCollected
+vm-dbmigration-,AdventureWorks2022,AdventureWorks2022,C:\Program Files\Microsoft SQL Server\MSSQL16.MSSQLSERVER\MSSQL\DATA\AdventureWorks2022.mdf,Rows,200,False,2024-02-14 15:07:17
+vm-dbmigration-,AdventureWorks2022,AdventureWorks2022_log,C:\Program Files\Microsoft SQL Server\MSSQL16.MSSQLSERVER\MSSQL\DATA\AdventureWorks2022_log.ldf,Log,72,False,2024-02-14 15:07:17

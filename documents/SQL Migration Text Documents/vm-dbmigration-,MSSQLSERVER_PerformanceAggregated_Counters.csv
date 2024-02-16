@@ -1,0 +1,137 @@
+ServerName,DatabaseName,DatabaseFileName,FileType,TimeDataCollected,CounterName,AggregatorType,Value
+vm-dbmigration-,,,,2024-02-14 15:03:48,IM,Mean,346.89474
+vm-dbmigration-,,,,2024-02-14 15:03:48,IM,Occurence,19
+vm-dbmigration-,,,,2024-02-14 15:03:48,IM,Variance,345.14682
+vm-dbmigration-,,,,2024-02-14 15:03:48,IM,Max,367
+vm-dbmigration-,,,,2024-02-14 15:03:48,IMP,Mean,91.31579
+vm-dbmigration-,,,,2024-02-14 15:03:48,IMP,Occurence,19
+vm-dbmigration-,,,,2024-02-14 15:03:48,IMP,Variance,22.005539
+vm-dbmigration-,,,,2024-02-14 15:03:48,IMP,Max,97
+vm-dbmigration-,,,,2024-02-14 15:03:48,ICP,Mean,0
+vm-dbmigration-,,,,2024-02-14 15:03:48,ICP,Occurence,19
+vm-dbmigration-,,,,2024-02-14 15:03:48,ICP,Variance,0
+vm-dbmigration-,,,,2024-02-14 15:03:48,ICP,Max,0
+vm-dbmigration-,AdventureWorks2022,,,2024-02-14 15:03:48,DCS,Mean,10.825288
+vm-dbmigration-,AdventureWorks2022,,,2024-02-14 15:03:48,DCS,Occurence,19
+vm-dbmigration-,AdventureWorks2022,,,2024-02-14 15:03:48,DCS,Variance,0.0025945348
+vm-dbmigration-,AdventureWorks2022,,,2024-02-14 15:03:48,DCS,Max,10.87898
+vm-dbmigration-,AdventureWorks2022,,,2024-02-14 15:03:48,DCP,Mean,0
+vm-dbmigration-,AdventureWorks2022,,,2024-02-14 15:03:48,DCP,Occurence,18
+vm-dbmigration-,AdventureWorks2022,,,2024-02-14 15:03:48,DCP,Variance,0
+vm-dbmigration-,AdventureWorks2022,,,2024-02-14 15:03:48,DCP,Max,0
+vm-dbmigration-,AdventureWorks2022,C:\Program Files\Microsoft SQL Server\MSSQL16.MSSQLSERVER\MSSQL\DATA\AdventureWorks2022.mdf,ROWS,2024-02-14 15:03:48,FRM,Mean,0
+vm-dbmigration-,AdventureWorks2022,C:\Program Files\Microsoft SQL Server\MSSQL16.MSSQLSERVER\MSSQL\DATA\AdventureWorks2022.mdf,ROWS,2024-02-14 15:03:48,FRM,Occurence,18
+vm-dbmigration-,AdventureWorks2022,C:\Program Files\Microsoft SQL Server\MSSQL16.MSSQLSERVER\MSSQL\DATA\AdventureWorks2022.mdf,ROWS,2024-02-14 15:03:48,FRM,Variance,0
+vm-dbmigration-,AdventureWorks2022,C:\Program Files\Microsoft SQL Server\MSSQL16.MSSQLSERVER\MSSQL\DATA\AdventureWorks2022.mdf,ROWS,2024-02-14 15:03:48,FRM,Max,0
+vm-dbmigration-,AdventureWorks2022,C:\Program Files\Microsoft SQL Server\MSSQL16.MSSQLSERVER\MSSQL\DATA\AdventureWorks2022.mdf,ROWS,2024-02-14 15:03:48,FWM,Mean,0
+vm-dbmigration-,AdventureWorks2022,C:\Program Files\Microsoft SQL Server\MSSQL16.MSSQLSERVER\MSSQL\DATA\AdventureWorks2022.mdf,ROWS,2024-02-14 15:03:48,FWM,Occurence,18
+vm-dbmigration-,AdventureWorks2022,C:\Program Files\Microsoft SQL Server\MSSQL16.MSSQLSERVER\MSSQL\DATA\AdventureWorks2022.mdf,ROWS,2024-02-14 15:03:48,FWM,Variance,0
+vm-dbmigration-,AdventureWorks2022,C:\Program Files\Microsoft SQL Server\MSSQL16.MSSQLSERVER\MSSQL\DATA\AdventureWorks2022.mdf,ROWS,2024-02-14 15:03:48,FWM,Max,0
+vm-dbmigration-,AdventureWorks2022,C:\Program Files\Microsoft SQL Server\MSSQL16.MSSQLSERVER\MSSQL\DATA\AdventureWorks2022.mdf,ROWS,2024-02-14 15:03:48,FNW,Mean,0
+vm-dbmigration-,AdventureWorks2022,C:\Program Files\Microsoft SQL Server\MSSQL16.MSSQLSERVER\MSSQL\DATA\AdventureWorks2022.mdf,ROWS,2024-02-14 15:03:48,FNW,Occurence,18
+vm-dbmigration-,AdventureWorks2022,C:\Program Files\Microsoft SQL Server\MSSQL16.MSSQLSERVER\MSSQL\DATA\AdventureWorks2022.mdf,ROWS,2024-02-14 15:03:48,FNW,Variance,0
+vm-dbmigration-,AdventureWorks2022,C:\Program Files\Microsoft SQL Server\MSSQL16.MSSQLSERVER\MSSQL\DATA\AdventureWorks2022.mdf,ROWS,2024-02-14 15:03:48,FNW,Max,0
+vm-dbmigration-,AdventureWorks2022,C:\Program Files\Microsoft SQL Server\MSSQL16.MSSQLSERVER\MSSQL\DATA\AdventureWorks2022.mdf,ROWS,2024-02-14 15:03:48,FNR,Mean,0.055555556
+vm-dbmigration-,AdventureWorks2022,C:\Program Files\Microsoft SQL Server\MSSQL16.MSSQLSERVER\MSSQL\DATA\AdventureWorks2022.mdf,ROWS,2024-02-14 15:03:48,FNR,Occurence,18
+vm-dbmigration-,AdventureWorks2022,C:\Program Files\Microsoft SQL Server\MSSQL16.MSSQLSERVER\MSSQL\DATA\AdventureWorks2022.mdf,ROWS,2024-02-14 15:03:48,FNR,Variance,0.052469134
+vm-dbmigration-,AdventureWorks2022,C:\Program Files\Microsoft SQL Server\MSSQL16.MSSQLSERVER\MSSQL\DATA\AdventureWorks2022.mdf,ROWS,2024-02-14 15:03:48,FNR,Max,1
+vm-dbmigration-,AdventureWorks2022,C:\Program Files\Microsoft SQL Server\MSSQL16.MSSQLSERVER\MSSQL\DATA\AdventureWorks2022.mdf,ROWS,2024-02-14 15:03:48,FRL,Mean,0.055555556
+vm-dbmigration-,AdventureWorks2022,C:\Program Files\Microsoft SQL Server\MSSQL16.MSSQLSERVER\MSSQL\DATA\AdventureWorks2022.mdf,ROWS,2024-02-14 15:03:48,FRL,Occurence,18
+vm-dbmigration-,AdventureWorks2022,C:\Program Files\Microsoft SQL Server\MSSQL16.MSSQLSERVER\MSSQL\DATA\AdventureWorks2022.mdf,ROWS,2024-02-14 15:03:48,FRL,Variance,0.052469134
+vm-dbmigration-,AdventureWorks2022,C:\Program Files\Microsoft SQL Server\MSSQL16.MSSQLSERVER\MSSQL\DATA\AdventureWorks2022.mdf,ROWS,2024-02-14 15:03:48,FRL,Max,1
+vm-dbmigration-,AdventureWorks2022,C:\Program Files\Microsoft SQL Server\MSSQL16.MSSQLSERVER\MSSQL\DATA\AdventureWorks2022.mdf,ROWS,2024-02-14 15:03:48,FWL,Mean,0
+vm-dbmigration-,AdventureWorks2022,C:\Program Files\Microsoft SQL Server\MSSQL16.MSSQLSERVER\MSSQL\DATA\AdventureWorks2022.mdf,ROWS,2024-02-14 15:03:48,FWL,Occurence,18
+vm-dbmigration-,AdventureWorks2022,C:\Program Files\Microsoft SQL Server\MSSQL16.MSSQLSERVER\MSSQL\DATA\AdventureWorks2022.mdf,ROWS,2024-02-14 15:03:48,FWL,Variance,0
+vm-dbmigration-,AdventureWorks2022,C:\Program Files\Microsoft SQL Server\MSSQL16.MSSQLSERVER\MSSQL\DATA\AdventureWorks2022.mdf,ROWS,2024-02-14 15:03:48,FWL,Max,0
+vm-dbmigration-,AdventureWorks2022,C:\Program Files\Microsoft SQL Server\MSSQL16.MSSQLSERVER\MSSQL\DATA\AdventureWorks2022_log.ldf,LOG,2024-02-14 15:03:48,FRM,Mean,0
+vm-dbmigration-,AdventureWorks2022,C:\Program Files\Microsoft SQL Server\MSSQL16.MSSQLSERVER\MSSQL\DATA\AdventureWorks2022_log.ldf,LOG,2024-02-14 15:03:48,FRM,Occurence,18
+vm-dbmigration-,AdventureWorks2022,C:\Program Files\Microsoft SQL Server\MSSQL16.MSSQLSERVER\MSSQL\DATA\AdventureWorks2022_log.ldf,LOG,2024-02-14 15:03:48,FRM,Variance,0
+vm-dbmigration-,AdventureWorks2022,C:\Program Files\Microsoft SQL Server\MSSQL16.MSSQLSERVER\MSSQL\DATA\AdventureWorks2022_log.ldf,LOG,2024-02-14 15:03:48,FRM,Max,0
+vm-dbmigration-,AdventureWorks2022,C:\Program Files\Microsoft SQL Server\MSSQL16.MSSQLSERVER\MSSQL\DATA\AdventureWorks2022_log.ldf,LOG,2024-02-14 15:03:48,FWM,Mean,0
+vm-dbmigration-,AdventureWorks2022,C:\Program Files\Microsoft SQL Server\MSSQL16.MSSQLSERVER\MSSQL\DATA\AdventureWorks2022_log.ldf,LOG,2024-02-14 15:03:48,FWM,Occurence,18
+vm-dbmigration-,AdventureWorks2022,C:\Program Files\Microsoft SQL Server\MSSQL16.MSSQLSERVER\MSSQL\DATA\AdventureWorks2022_log.ldf,LOG,2024-02-14 15:03:48,FWM,Variance,0
+vm-dbmigration-,AdventureWorks2022,C:\Program Files\Microsoft SQL Server\MSSQL16.MSSQLSERVER\MSSQL\DATA\AdventureWorks2022_log.ldf,LOG,2024-02-14 15:03:48,FWM,Max,0
+vm-dbmigration-,AdventureWorks2022,C:\Program Files\Microsoft SQL Server\MSSQL16.MSSQLSERVER\MSSQL\DATA\AdventureWorks2022_log.ldf,LOG,2024-02-14 15:03:48,FNW,Mean,0
+vm-dbmigration-,AdventureWorks2022,C:\Program Files\Microsoft SQL Server\MSSQL16.MSSQLSERVER\MSSQL\DATA\AdventureWorks2022_log.ldf,LOG,2024-02-14 15:03:48,FNW,Occurence,18
+vm-dbmigration-,AdventureWorks2022,C:\Program Files\Microsoft SQL Server\MSSQL16.MSSQLSERVER\MSSQL\DATA\AdventureWorks2022_log.ldf,LOG,2024-02-14 15:03:48,FNW,Variance,0
+vm-dbmigration-,AdventureWorks2022,C:\Program Files\Microsoft SQL Server\MSSQL16.MSSQLSERVER\MSSQL\DATA\AdventureWorks2022_log.ldf,LOG,2024-02-14 15:03:48,FNW,Max,0
+vm-dbmigration-,AdventureWorks2022,C:\Program Files\Microsoft SQL Server\MSSQL16.MSSQLSERVER\MSSQL\DATA\AdventureWorks2022_log.ldf,LOG,2024-02-14 15:03:48,FNR,Mean,0
+vm-dbmigration-,AdventureWorks2022,C:\Program Files\Microsoft SQL Server\MSSQL16.MSSQLSERVER\MSSQL\DATA\AdventureWorks2022_log.ldf,LOG,2024-02-14 15:03:48,FNR,Occurence,18
+vm-dbmigration-,AdventureWorks2022,C:\Program Files\Microsoft SQL Server\MSSQL16.MSSQLSERVER\MSSQL\DATA\AdventureWorks2022_log.ldf,LOG,2024-02-14 15:03:48,FNR,Variance,0
+vm-dbmigration-,AdventureWorks2022,C:\Program Files\Microsoft SQL Server\MSSQL16.MSSQLSERVER\MSSQL\DATA\AdventureWorks2022_log.ldf,LOG,2024-02-14 15:03:48,FNR,Max,0
+vm-dbmigration-,AdventureWorks2022,C:\Program Files\Microsoft SQL Server\MSSQL16.MSSQLSERVER\MSSQL\DATA\AdventureWorks2022_log.ldf,LOG,2024-02-14 15:03:48,FRL,Mean,0
+vm-dbmigration-,AdventureWorks2022,C:\Program Files\Microsoft SQL Server\MSSQL16.MSSQLSERVER\MSSQL\DATA\AdventureWorks2022_log.ldf,LOG,2024-02-14 15:03:48,FRL,Occurence,18
+vm-dbmigration-,AdventureWorks2022,C:\Program Files\Microsoft SQL Server\MSSQL16.MSSQLSERVER\MSSQL\DATA\AdventureWorks2022_log.ldf,LOG,2024-02-14 15:03:48,FRL,Variance,0
+vm-dbmigration-,AdventureWorks2022,C:\Program Files\Microsoft SQL Server\MSSQL16.MSSQLSERVER\MSSQL\DATA\AdventureWorks2022_log.ldf,LOG,2024-02-14 15:03:48,FRL,Max,0
+vm-dbmigration-,AdventureWorks2022,C:\Program Files\Microsoft SQL Server\MSSQL16.MSSQLSERVER\MSSQL\DATA\AdventureWorks2022_log.ldf,LOG,2024-02-14 15:03:48,FWL,Mean,0
+vm-dbmigration-,AdventureWorks2022,C:\Program Files\Microsoft SQL Server\MSSQL16.MSSQLSERVER\MSSQL\DATA\AdventureWorks2022_log.ldf,LOG,2024-02-14 15:03:48,FWL,Occurence,18
+vm-dbmigration-,AdventureWorks2022,C:\Program Files\Microsoft SQL Server\MSSQL16.MSSQLSERVER\MSSQL\DATA\AdventureWorks2022_log.ldf,LOG,2024-02-14 15:03:48,FWL,Variance,0
+vm-dbmigration-,AdventureWorks2022,C:\Program Files\Microsoft SQL Server\MSSQL16.MSSQLSERVER\MSSQL\DATA\AdventureWorks2022_log.ldf,LOG,2024-02-14 15:03:48,FWL,Max,0
+vm-dbmigration-,,,,2024-02-14 15:07:38,IM,Mean,334.85715
+vm-dbmigration-,,,,2024-02-14 15:07:38,IM,Occurence,7
+vm-dbmigration-,,,,2024-02-14 15:07:38,IM,Variance,0.97959185
+vm-dbmigration-,,,,2024-02-14 15:07:38,IM,Max,336
+vm-dbmigration-,,,,2024-02-14 15:07:38,IMP,Mean,88
+vm-dbmigration-,,,,2024-02-14 15:07:38,IMP,Occurence,7
+vm-dbmigration-,,,,2024-02-14 15:07:38,IMP,Variance,0
+vm-dbmigration-,,,,2024-02-14 15:07:38,IMP,Max,88
+vm-dbmigration-,,,,2024-02-14 15:07:38,ICP,Mean,0
+vm-dbmigration-,,,,2024-02-14 15:07:38,ICP,Occurence,7
+vm-dbmigration-,,,,2024-02-14 15:07:38,ICP,Variance,0
+vm-dbmigration-,,,,2024-02-14 15:07:38,ICP,Max,0
+vm-dbmigration-,AdventureWorks2022,,,2024-02-14 15:07:38,DCS,Mean,10.88516
+vm-dbmigration-,AdventureWorks2022,,,2024-02-14 15:07:38,DCS,Occurence,7
+vm-dbmigration-,AdventureWorks2022,,,2024-02-14 15:07:38,DCS,Variance,4.765722E-06
+vm-dbmigration-,AdventureWorks2022,,,2024-02-14 15:07:38,DCS,Max,10.886503
+vm-dbmigration-,AdventureWorks2022,,,2024-02-14 15:07:38,DCP,Mean,33.333332
+vm-dbmigration-,AdventureWorks2022,,,2024-02-14 15:07:38,DCP,Occurence,6
+vm-dbmigration-,AdventureWorks2022,,,2024-02-14 15:07:38,DCP,Variance,2222.2224
+vm-dbmigration-,AdventureWorks2022,,,2024-02-14 15:07:38,DCP,Max,100
+vm-dbmigration-,AdventureWorks2022,C:\Program Files\Microsoft SQL Server\MSSQL16.MSSQLSERVER\MSSQL\DATA\AdventureWorks2022.mdf,ROWS,2024-02-14 15:07:38,FRM,Mean,0
+vm-dbmigration-,AdventureWorks2022,C:\Program Files\Microsoft SQL Server\MSSQL16.MSSQLSERVER\MSSQL\DATA\AdventureWorks2022.mdf,ROWS,2024-02-14 15:07:38,FRM,Occurence,6
+vm-dbmigration-,AdventureWorks2022,C:\Program Files\Microsoft SQL Server\MSSQL16.MSSQLSERVER\MSSQL\DATA\AdventureWorks2022.mdf,ROWS,2024-02-14 15:07:38,FRM,Variance,0
+vm-dbmigration-,AdventureWorks2022,C:\Program Files\Microsoft SQL Server\MSSQL16.MSSQLSERVER\MSSQL\DATA\AdventureWorks2022.mdf,ROWS,2024-02-14 15:07:38,FRM,Max,0
+vm-dbmigration-,AdventureWorks2022,C:\Program Files\Microsoft SQL Server\MSSQL16.MSSQLSERVER\MSSQL\DATA\AdventureWorks2022.mdf,ROWS,2024-02-14 15:07:38,FWM,Mean,0
+vm-dbmigration-,AdventureWorks2022,C:\Program Files\Microsoft SQL Server\MSSQL16.MSSQLSERVER\MSSQL\DATA\AdventureWorks2022.mdf,ROWS,2024-02-14 15:07:38,FWM,Occurence,6
+vm-dbmigration-,AdventureWorks2022,C:\Program Files\Microsoft SQL Server\MSSQL16.MSSQLSERVER\MSSQL\DATA\AdventureWorks2022.mdf,ROWS,2024-02-14 15:07:38,FWM,Variance,0
+vm-dbmigration-,AdventureWorks2022,C:\Program Files\Microsoft SQL Server\MSSQL16.MSSQLSERVER\MSSQL\DATA\AdventureWorks2022.mdf,ROWS,2024-02-14 15:07:38,FWM,Max,0
+vm-dbmigration-,AdventureWorks2022,C:\Program Files\Microsoft SQL Server\MSSQL16.MSSQLSERVER\MSSQL\DATA\AdventureWorks2022.mdf,ROWS,2024-02-14 15:07:38,FNW,Mean,0
+vm-dbmigration-,AdventureWorks2022,C:\Program Files\Microsoft SQL Server\MSSQL16.MSSQLSERVER\MSSQL\DATA\AdventureWorks2022.mdf,ROWS,2024-02-14 15:07:38,FNW,Occurence,6
+vm-dbmigration-,AdventureWorks2022,C:\Program Files\Microsoft SQL Server\MSSQL16.MSSQLSERVER\MSSQL\DATA\AdventureWorks2022.mdf,ROWS,2024-02-14 15:07:38,FNW,Variance,0
+vm-dbmigration-,AdventureWorks2022,C:\Program Files\Microsoft SQL Server\MSSQL16.MSSQLSERVER\MSSQL\DATA\AdventureWorks2022.mdf,ROWS,2024-02-14 15:07:38,FNW,Max,0
+vm-dbmigration-,AdventureWorks2022,C:\Program Files\Microsoft SQL Server\MSSQL16.MSSQLSERVER\MSSQL\DATA\AdventureWorks2022.mdf,ROWS,2024-02-14 15:07:38,FNR,Mean,0
+vm-dbmigration-,AdventureWorks2022,C:\Program Files\Microsoft SQL Server\MSSQL16.MSSQLSERVER\MSSQL\DATA\AdventureWorks2022.mdf,ROWS,2024-02-14 15:07:38,FNR,Occurence,6
+vm-dbmigration-,AdventureWorks2022,C:\Program Files\Microsoft SQL Server\MSSQL16.MSSQLSERVER\MSSQL\DATA\AdventureWorks2022.mdf,ROWS,2024-02-14 15:07:38,FNR,Variance,0
+vm-dbmigration-,AdventureWorks2022,C:\Program Files\Microsoft SQL Server\MSSQL16.MSSQLSERVER\MSSQL\DATA\AdventureWorks2022.mdf,ROWS,2024-02-14 15:07:38,FNR,Max,0
+vm-dbmigration-,AdventureWorks2022,C:\Program Files\Microsoft SQL Server\MSSQL16.MSSQLSERVER\MSSQL\DATA\AdventureWorks2022.mdf,ROWS,2024-02-14 15:07:38,FRL,Mean,0
+vm-dbmigration-,AdventureWorks2022,C:\Program Files\Microsoft SQL Server\MSSQL16.MSSQLSERVER\MSSQL\DATA\AdventureWorks2022.mdf,ROWS,2024-02-14 15:07:38,FRL,Occurence,6
+vm-dbmigration-,AdventureWorks2022,C:\Program Files\Microsoft SQL Server\MSSQL16.MSSQLSERVER\MSSQL\DATA\AdventureWorks2022.mdf,ROWS,2024-02-14 15:07:38,FRL,Variance,0
+vm-dbmigration-,AdventureWorks2022,C:\Program Files\Microsoft SQL Server\MSSQL16.MSSQLSERVER\MSSQL\DATA\AdventureWorks2022.mdf,ROWS,2024-02-14 15:07:38,FRL,Max,0
+vm-dbmigration-,AdventureWorks2022,C:\Program Files\Microsoft SQL Server\MSSQL16.MSSQLSERVER\MSSQL\DATA\AdventureWorks2022.mdf,ROWS,2024-02-14 15:07:38,FWL,Mean,0
+vm-dbmigration-,AdventureWorks2022,C:\Program Files\Microsoft SQL Server\MSSQL16.MSSQLSERVER\MSSQL\DATA\AdventureWorks2022.mdf,ROWS,2024-02-14 15:07:38,FWL,Occurence,6
+vm-dbmigration-,AdventureWorks2022,C:\Program Files\Microsoft SQL Server\MSSQL16.MSSQLSERVER\MSSQL\DATA\AdventureWorks2022.mdf,ROWS,2024-02-14 15:07:38,FWL,Variance,0
+vm-dbmigration-,AdventureWorks2022,C:\Program Files\Microsoft SQL Server\MSSQL16.MSSQLSERVER\MSSQL\DATA\AdventureWorks2022.mdf,ROWS,2024-02-14 15:07:38,FWL,Max,0
+vm-dbmigration-,AdventureWorks2022,C:\Program Files\Microsoft SQL Server\MSSQL16.MSSQLSERVER\MSSQL\DATA\AdventureWorks2022_log.ldf,LOG,2024-02-14 15:07:38,FRM,Mean,0
+vm-dbmigration-,AdventureWorks2022,C:\Program Files\Microsoft SQL Server\MSSQL16.MSSQLSERVER\MSSQL\DATA\AdventureWorks2022_log.ldf,LOG,2024-02-14 15:07:38,FRM,Occurence,6
+vm-dbmigration-,AdventureWorks2022,C:\Program Files\Microsoft SQL Server\MSSQL16.MSSQLSERVER\MSSQL\DATA\AdventureWorks2022_log.ldf,LOG,2024-02-14 15:07:38,FRM,Variance,0
+vm-dbmigration-,AdventureWorks2022,C:\Program Files\Microsoft SQL Server\MSSQL16.MSSQLSERVER\MSSQL\DATA\AdventureWorks2022_log.ldf,LOG,2024-02-14 15:07:38,FRM,Max,0
+vm-dbmigration-,AdventureWorks2022,C:\Program Files\Microsoft SQL Server\MSSQL16.MSSQLSERVER\MSSQL\DATA\AdventureWorks2022_log.ldf,LOG,2024-02-14 15:07:38,FWM,Mean,0
+vm-dbmigration-,AdventureWorks2022,C:\Program Files\Microsoft SQL Server\MSSQL16.MSSQLSERVER\MSSQL\DATA\AdventureWorks2022_log.ldf,LOG,2024-02-14 15:07:38,FWM,Occurence,6
+vm-dbmigration-,AdventureWorks2022,C:\Program Files\Microsoft SQL Server\MSSQL16.MSSQLSERVER\MSSQL\DATA\AdventureWorks2022_log.ldf,LOG,2024-02-14 15:07:38,FWM,Variance,0
+vm-dbmigration-,AdventureWorks2022,C:\Program Files\Microsoft SQL Server\MSSQL16.MSSQLSERVER\MSSQL\DATA\AdventureWorks2022_log.ldf,LOG,2024-02-14 15:07:38,FWM,Max,0
+vm-dbmigration-,AdventureWorks2022,C:\Program Files\Microsoft SQL Server\MSSQL16.MSSQLSERVER\MSSQL\DATA\AdventureWorks2022_log.ldf,LOG,2024-02-14 15:07:38,FNW,Mean,0
+vm-dbmigration-,AdventureWorks2022,C:\Program Files\Microsoft SQL Server\MSSQL16.MSSQLSERVER\MSSQL\DATA\AdventureWorks2022_log.ldf,LOG,2024-02-14 15:07:38,FNW,Occurence,6
+vm-dbmigration-,AdventureWorks2022,C:\Program Files\Microsoft SQL Server\MSSQL16.MSSQLSERVER\MSSQL\DATA\AdventureWorks2022_log.ldf,LOG,2024-02-14 15:07:38,FNW,Variance,0
+vm-dbmigration-,AdventureWorks2022,C:\Program Files\Microsoft SQL Server\MSSQL16.MSSQLSERVER\MSSQL\DATA\AdventureWorks2022_log.ldf,LOG,2024-02-14 15:07:38,FNW,Max,0
+vm-dbmigration-,AdventureWorks2022,C:\Program Files\Microsoft SQL Server\MSSQL16.MSSQLSERVER\MSSQL\DATA\AdventureWorks2022_log.ldf,LOG,2024-02-14 15:07:38,FNR,Mean,0
+vm-dbmigration-,AdventureWorks2022,C:\Program Files\Microsoft SQL Server\MSSQL16.MSSQLSERVER\MSSQL\DATA\AdventureWorks2022_log.ldf,LOG,2024-02-14 15:07:38,FNR,Occurence,6
+vm-dbmigration-,AdventureWorks2022,C:\Program Files\Microsoft SQL Server\MSSQL16.MSSQLSERVER\MSSQL\DATA\AdventureWorks2022_log.ldf,LOG,2024-02-14 15:07:38,FNR,Variance,0
+vm-dbmigration-,AdventureWorks2022,C:\Program Files\Microsoft SQL Server\MSSQL16.MSSQLSERVER\MSSQL\DATA\AdventureWorks2022_log.ldf,LOG,2024-02-14 15:07:38,FNR,Max,0
+vm-dbmigration-,AdventureWorks2022,C:\Program Files\Microsoft SQL Server\MSSQL16.MSSQLSERVER\MSSQL\DATA\AdventureWorks2022_log.ldf,LOG,2024-02-14 15:07:38,FRL,Mean,0
+vm-dbmigration-,AdventureWorks2022,C:\Program Files\Microsoft SQL Server\MSSQL16.MSSQLSERVER\MSSQL\DATA\AdventureWorks2022_log.ldf,LOG,2024-02-14 15:07:38,FRL,Occurence,6
+vm-dbmigration-,AdventureWorks2022,C:\Program Files\Microsoft SQL Server\MSSQL16.MSSQLSERVER\MSSQL\DATA\AdventureWorks2022_log.ldf,LOG,2024-02-14 15:07:38,FRL,Variance,0
+vm-dbmigration-,AdventureWorks2022,C:\Program Files\Microsoft SQL Server\MSSQL16.MSSQLSERVER\MSSQL\DATA\AdventureWorks2022_log.ldf,LOG,2024-02-14 15:07:38,FRL,Max,0
+vm-dbmigration-,AdventureWorks2022,C:\Program Files\Microsoft SQL Server\MSSQL16.MSSQLSERVER\MSSQL\DATA\AdventureWorks2022_log.ldf,LOG,2024-02-14 15:07:38,FWL,Mean,0
+vm-dbmigration-,AdventureWorks2022,C:\Program Files\Microsoft SQL Server\MSSQL16.MSSQLSERVER\MSSQL\DATA\AdventureWorks2022_log.ldf,LOG,2024-02-14 15:07:38,FWL,Occurence,6
+vm-dbmigration-,AdventureWorks2022,C:\Program Files\Microsoft SQL Server\MSSQL16.MSSQLSERVER\MSSQL\DATA\AdventureWorks2022_log.ldf,LOG,2024-02-14 15:07:38,FWL,Variance,0
+vm-dbmigration-,AdventureWorks2022,C:\Program Files\Microsoft SQL Server\MSSQL16.MSSQLSERVER\MSSQL\DATA\AdventureWorks2022_log.ldf,LOG,2024-02-14 15:07:38,FWL,Max,0
