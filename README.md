@@ -47,6 +47,6 @@ For a more detailed explanation on the steps taken to complete this project, ple
 
 # Future Improvements 
 
-- Migration of Documentation into Wiki Page
+- Migration of Documentation into Wiki Page (Completed 18.02.2024) 
 - Addition of Infrastructure as Code (IaC) tools such as Terraform and Azure Resource Manager (ARM) Templates to streamline the automation of the provision of resources.
 - Addition of extra security measures using Entra ID to allow access to Virtual Machines and SQL Databases. 
