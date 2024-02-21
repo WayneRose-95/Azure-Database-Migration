@@ -1,0 +1,39 @@
+{
+    "$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+    "contentVersion": "1.0.0.0",
+    "parameters": {
+        "vulnerabilityAssessments_Default_storageContainerPath": {
+            "value": null
+        },
+        "vulnerabilityAssessments_Default_storageContainerPath_1": {
+            "value": null
+        },
+        "servers_dbmigration_useast_001_name": {
+            "value": null
+        },
+        "servers_dbmigration_uksouth_001_name": {
+            "value": null
+        },
+        "virtualMachines_vm_dbmigration_prod_name": {
+            "value": null
+        },
+        "storageAccounts_azdbmigrationstorage_name": {
+            "value": null
+        },
+        "publicIPAddresses_vm_dbmigration_prod_ip_name": {
+            "value": null
+        },
+        "virtualNetworks_vm_dbmigration_prod_vnet_name": {
+            "value": null
+        },
+        "networkInterfaces_vm_dbmigration_prod956_z1_name": {
+            "value": null
+        },
+        "networkSecurityGroups_vm_dbmigration_prod_nsg_name": {
+            "value": null
+        },
+        "sqlMigrationServices_vm_dbmigration_migrationservice_prod_uksouth_001_name": {
+            "value": null
+        }
+    }
+}
